@@ -32,6 +32,7 @@ Weitere Informationen: PDF-Seite 5 der [01 VL FlexEsys - Flexibilitaetsbedarf.pd
 <details>
 <summary>Was sind die typischen Restriktionen eines KW bzw. Speichers?</summary>
 
+Kraftwerk
 - Zustände (Aus, An)
 - Benötigte Zeit für Zustandswechsel
 - Minimal- bzw. Maximalleistung
