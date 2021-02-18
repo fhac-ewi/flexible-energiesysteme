@@ -26,6 +26,22 @@ Dies wären mögliche Stichpunkte als Antwort
 Weitere Informationen: PDF-Seite 5 der [01 VL FlexEsys - Flexibilitaetsbedarf.pdf](https://www.ili.fh-aachen.de/goto_elearning_file_621327_download.html).
 </details>
 
+### Ursachen Flexibilitätsbedarf
+
+### Werttreiber Flexibilitätsbedarf
+
+### Funktionsweise und Komponenten
+#### Kraftwerke
+#### Speicher
+
+### Grundlagen
+
+### Grundlagen verschiedener Vermarktungsstrategien
+
+### Grenzkostenfunktion
+
+### Flexibilitätsbereitstellung
+
 ## Vorlesung Teil 2 (Schemm)
 
 ### Dynamische Programmierung (VL1)
@@ -42,3 +58,9 @@ Speicher zusätzlich
 - Geschwindigkeit Einspeicherung/Ausspeicherung (minimale/maximale Pumpleistung)
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
 </details>
+
+### Intrinsic Rolling (VL2)
+
+### stochastische Bewertung (VL3+4)
+
+### Last-Square-Monte-Carlo-Optimierung (VL5)
