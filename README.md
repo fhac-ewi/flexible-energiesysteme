@@ -30,4 +30,14 @@ Speicher zusätzlich
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
 ```
 
-Der [Fragenkatalog](./Fragenkatalog.md) wird durch das Script [create.sh](./create.sh) generiert. 
+Der [Fragenkatalog](./Fragenkatalog.md) wird durch das Script [create.sh](./create.sh) generiert. Dank des GitLab-Runners passiert das automatisch, sobald die Änderungen gepusht wurden.
+
+
+## GitLab Runner mit GKE aufsetzen (Anleitung für den Zukunftspaul)
+1. In der Google Cloud ein Cluster erstellen: https://console.cloud.google.com/kubernetes/list
+2. Cluster konfigurieren:
+  - Basisauthentifizierung aktivieren
+  - Alte Autorisierung aktivieren
+3. Anleitung für GitLab Einrichtung befolgen: https://git.fh-aachen.de/help/user/project/clusters/add_remove_clusters.md#add-existing-cluster
+  - Bei Google auf "Verbinden" klicken
+  - In der Shell `gitlab-admin-service-account.yaml` mit `touch` erstellen und mit `nano` bearbeiten.
