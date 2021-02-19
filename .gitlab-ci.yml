@@ -14,4 +14,4 @@ build:
     - git add .
     - git status
     - git commit -m "Generated Fragenkatalog"
-    - git push api-origin 
+    - git push api-origin master
