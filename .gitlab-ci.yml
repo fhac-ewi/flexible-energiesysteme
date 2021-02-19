@@ -1,11 +1,11 @@
 build:
+  image: alpine/git:latest
   stage: build
   except:
     changes:
       - "README.md"
       - "Fragenkatalog.md"
   script:
-    - apk update && apk add git
     - chmod +x ./create.sh
     - ./create.sh
     - git config user.email "${GITLAB_USER_EMAIL}"
