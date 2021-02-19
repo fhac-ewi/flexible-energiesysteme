@@ -52,13 +52,58 @@ Nachfrageseitig:
 
 Angebotsseitig:
 - Täglich bis saisonale Flexibilitätsbereitstellung i. d. R. durch (mehrere) Wärmeerzeuger mit flexibler Wärmeleistung und zeitlich variablem Betrieb.
+
+</details>
+<details><summary>Was ist das Kennzeichen flexibler Enegiesysteme?</summary>
+
+Antwort steht noch aus...
+
+</details>
+<details><summary>Woraus resultiert der physische Flexibilitätsbedarf ursächlich?</summary>
+
+**Leitaussagen: Flexibilitätsbedarf und Flexibilitätsbereitstellung**
+- Das Bedürfnis nach aktivem Management von Energiesystemen resultiert aus der zeitlichen Veränderlichkeit der Einflussgrößen (Input, Output, Parameter)
+- Aktives Management bedeutet die Nutzung von im System immanenter Flexibilität, Steuerbarkeit
+- Der physische Flexibilitätsbedarf resultiert ursächlich aus der zeitlich schwankenden Nachfrage nach Strom und Wärme und daraus Erdgas
+- Ursachen des Flexibilitätsbedarfs im Stromnetz sind die zeitlich schwankende Nachfrage, deren Prognoseunsicherheit, die dargebotsabhängige Erzeugung (aus EE), deren Prognoseunsicherheit und wenig flexible Grundlasterzeugung
+- Flexibilitätsbereitstellung (Strom und Erdgas) geschieht durch Handelsmärkte, Regelenergiebereitstellung und Netzmaßnahmen
+- Physisch geschieht die Flexibilitätsbereitstellung über flexible Erzeuger, Nachfrageflexibilität und Speicher (Erdgas: auch Netzpuffer als Speicher; Fernwärme: auch Gebäude als Speicher)
+- Subsystem Erdgas: v.a. Gasspeicher und die Speicherfähigkeit des Netzes decken den physischen Flexibilitätsbedarf
+
+</details>
+<details><summary>Welche Faktoren beeinflussen den pyhsischen Flexibilitätsbedarf?</summary>
+
+**Leitaussagen: Flexibilitätsbereitstellung über Netzmaßnahmen**
+- Der Einsatz von Netz- und Systemsicherheitsmaßnahmen im Stromsystem hat ein signifikantes Ausmaß erreicht von etwa 4% der Energie der Nettostromerzeugung und etwa 8% des Marktwerts der Nettostromerzeugung
+- Instrumente für die Flexibilitätsbereitstellung über Netzmaßnahmen sind Einspeisemanagement, Redispatch, Netzreservekraftwerke und sonstige Anpassungsmaßnahmen
+- Durch Einspeisemanagement werden ganz überwiegend Windkraftanlagen in ihrer Erzeugung abgeregelt
+
+</details>
+<details><summary>Sind flexible Energiesysteme (Anlagen; z.B. Gasspeicher, Pumpspeicher-Kraftwerke, Erdgas-GuD-Kraftwerke, Gasturbinenkraftwerke) im liberalisierten Energiemarkt wertvoller als inflexible Energiesysteme (z.B. Windkraftanlagen, Atomkraftwerke)?</summary>
+
+Ja (siehe Vorlesung 1 ab Folie 26)
+
+</details>
+<details><summary>Wenn ja, aus welchem Grund ist das so bzw. wodurch können flexible Energiesysteme Wert (= Gewinn) generieren?</summary>
+
+- Man kann auf Preisschwankungen reagieren. 
+- Zeitlich variable Marktpreise sind der wesentliche Werttreiber für die Vermarktung marktdienlicher Flexibilität. Je höher der Clean Spread desto wirtschaftlicher die Produktion.
+- Die variablen Marktpreise entstehen aus Angebot und Nachfrage (Preisbildung am Strommarkt, maried order) Mehr Erzeugung aus EE, sorgt für günstigeren Endpreis.
+- Netz: Maßgeblicher Werttreiber für netzdienliches Verhalten (von Netznutzern) ist die Verringerung der zu zahlenden Netzentgelte. 
+- Für die Industrie: Kosteneinsparung durch Reduzierung der Jahreshöchstlast (peak-Shaving) um teurere Stunden zu reduzieren. 
+- Netz: Die Ausschreibung von Regelenergie ist der Werttreiber für systemdienliches Verhalten.
 </details>
 
 ### Werttreiber Flexibilitätsbedarf
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/01 Werttreiber Flexibilitätsbedarf/Fragen aus Vorlesung.md).
-<details><summary>Platzhalter</summary>
+<details><summary>Was sind Werttreiber?</summary>
 
-Noch keine Fragen hinterlegt. Bitte Fragen einfügen.
+**Leitaussagen: Werttreiber**
+- Zeitlich variable Marktpreise sind der wesentliche Werttreiber für die Vermarktung marktdienlicher Flexibilität (über die Handelsmärkte)
+- Der Handelsmarkt übersetzt die physische Situation von Bedarf und Erzeugung in Preise
+- Maßgeblicher Werttreiber für netzdienliches Verhalten (von Netznutzern) ist die Verringerung der zu zahlenden Netzentgelte
+- Die Netzentgeltsystematik ist z. Zt. noch zeitlich invariabel und bietet nur wenige Möglichkeiten der Flexibilitätsnutzung (v.a. Reduktion des Leistungsentgelts durch Reduktion der bezogenen Jahreshöchstlast)
+- Die Ausschreibung von Regelenergie ist der Werttreiber für systemdienliche Flexibilitätsbereitstellung
 </details>
 
 ### Funktionsweise und Komponenten
