@@ -1,53 +1,24 @@
 # Flexible Energiesysteme Fragenkatalog
 Fragenkatalog für die mündliche Prüfung in Modul Flexible Energiesysteme im WS 2020/2021.
 
-## How to contribute
-Comming soon...
+[Link zum Fragenkatalog](./Fragenkatalog.md)
 
 ## How to use
-1. Frage durchlesen
+1. [Fragen](./Fragenkatalog.md) durchlesen
 2. Antwort überlegen
 3. Lösung durch Klick auf den Pfeil anzeigen
 
 Falls dir ein Fehler auffällt, kannst du einen Kommentar hinterlassen oder einen Korrekturvorschlag einreichen. (Siehe "How to contribute")
 
-# Fragenkatalog
+## How to contribute
+- In der [Ordnerstruktur](./Fragenkatalog) das jeweilige Thema finden.
+- Entweder in einer bestehenden Markdown-Datei (.md) Fragen ergänzen oder eine neue Markdown-Datei hinzufügen.
+- Folgende Syntax für Fragen einhalten einhalten:
+```markdown
+# Was ist 1+1?
+Die Antwort ist 2.
 
-## Vorlesung Teil 1 (Jungbluth)
-
-### Beispielthemengebiet
-<details>
-<summary>Beispielfrage?</summary>
-
-Dies wären mögliche Stichpunkte als Antwort
-- Stichpunkt 1
-- Stichpunkt 2
-
-Weitere Informationen: PDF-Seite 5 der [01 VL FlexEsys - Flexibilitaetsbedarf.pdf](https://www.ili.fh-aachen.de/goto_elearning_file_621327_download.html).
-</details>
-
-### Ursachen Flexibilitätsbedarf
-
-### Werttreiber Flexibilitätsbedarf
-
-### Funktionsweise und Komponenten
-#### Kraftwerke
-#### Speicher
-
-### Grundlagen
-
-### Grundlagen verschiedener Vermarktungsstrategien
-
-### Grenzkostenfunktion
-
-### Flexibilitätsbereitstellung
-
-## Vorlesung Teil 2 (Schemm)
-
-### Dynamische Programmierung (VL1)
-<details>
-<summary>Was sind die typischen Restriktionen eines KW bzw. Speichers?</summary>
-
+# Was sind typische Restriktionen eines Kraftwerks oder Speicher?
 Kraftwerk
 - Zustände (Aus, An)
 - Benötigte Zeit für Zustandswechsel
@@ -57,10 +28,5 @@ Kraftwerk
 Speicher zusätzlich
 - Geschwindigkeit Einspeicherung/Ausspeicherung (minimale/maximale Pumpleistung)
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
-</details>
+```
 
-### Intrinsic Rolling (VL2)
-
-### stochastische Bewertung (VL3+4)
-
-### Last-Square-Monte-Carlo-Optimierung (VL5)
