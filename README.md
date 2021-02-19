@@ -11,9 +11,9 @@ Fragenkatalog für die mündliche Prüfung in Modul Flexible Energiesysteme im W
 Falls dir ein Fehler auffällt, kannst du einen Kommentar hinterlassen oder einen Korrekturvorschlag einreichen. (Siehe "How to contribute")
 
 ## How to contribute
-- In der [Ordnerstruktur](./Fragenkatalog) das jeweilige Thema finden.
+- In der [Ordnerstruktur](./Fragenkatalog) das jeweilige Thema finden. (Oder per Klick auf die Datei im [Fragenkatalog](./Fragenkatalog.md))
 - Entweder in einer bestehenden Markdown-Datei (.md) Fragen ergänzen oder eine neue Markdown-Datei hinzufügen.
-- Folgende Syntax für Fragen einhalten einhalten:
+- Folgende Syntax für Fragen einhalten:
 ```markdown
 # Was ist 1+1?
 Die Antwort ist 2.
@@ -30,3 +30,4 @@ Speicher zusätzlich
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
 ```
 
+Der [Fragenkatalog](./Fragenkatalog.md) wird durch das Script [create.sh](./create.sh) generiert. 
