@@ -1,5 +1,5 @@
-generate:
-  stage: generate
+build:
+  stage: build
   except:
     changes:
       - "README.md"
