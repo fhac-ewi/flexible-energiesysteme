@@ -11,7 +11,7 @@ build:
     - git config user.email "${GITLAB_USER_EMAIL}"
     - git config user.name "${GITLAB_USER_NAME}"
     - git remote add api-origin https://oauth2:${GITLAB_ACCESS_TOKEN}@gitlab.com/${CI_PROJECT_PATH}
-    - git add .
+    - git add Fragenkatalog.md
     - git status
     - git commit -m "Generated Fragenkatalog"
     - git push api-origin master
