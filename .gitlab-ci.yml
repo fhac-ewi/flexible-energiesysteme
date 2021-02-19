@@ -6,11 +6,12 @@ build:
       - "README.md"
       - "Fragenkatalog.md"
   script:
-    - chmod +x ./create.sh
-    - ./create.sh
     - git config user.email "${GITLAB_USER_EMAIL}"
     - git config user.name "${GITLAB_USER_NAME}"
     - git remote add api-origin https://oauth2:${GITLAB_ACCESS_TOKEN}@gitlab.com/${CI_PROJECT_PATH}
+    - git checkout master
+    - chmod +x ./create.sh
+    - ./create.sh
     - git add Fragenkatalog.md
     - git status
     - git commit -m "Generated Fragenkatalog"
