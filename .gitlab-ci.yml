@@ -10,8 +10,8 @@ build:
     - git config user.name "${GITLAB_USER_NAME}"
     - git remote add api-origin https://oauth2:${GITLAB_ACCESS_TOKEN}@git.fh-aachen.de/${CI_PROJECT_PATH}
     - git checkout master
-    - chmod +x ./create.sh
-    - ./create.sh
+    - chmod +x ./generate.sh
+    - ./generate.sh
     - git add Fragenkatalog.md
     - git status
     - git commit -m "Generated Fragenkatalog"

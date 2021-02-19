@@ -30,7 +30,7 @@ Speicher zusätzlich
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
 ```
 
-Der [Fragenkatalog](./Fragenkatalog.md) wird durch das Script [create.sh](./create.sh) generiert. Dank des GitLab-Runners passiert das automatisch, sobald die Änderungen gepusht wurden.
+Der [Fragenkatalog](./Fragenkatalog.md) wird durch das Script [generate.sh](./generate.sh) generiert. Dank des GitLab-Runners passiert das automatisch, sobald die Änderungen gepusht wurden.
 
 
 ## GitLab Runner mit GKE aufsetzen (Anleitung für den Zukunftspaul)
