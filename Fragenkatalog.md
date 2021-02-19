@@ -9,6 +9,7 @@
 ### Flexibilitätsbereitstellung
 ## Teil 2 (Schemm)
 ### Dynamische Programmierung
+Fragen aus der Datei [Fragen aus Fragestunde](./Fragenkatalog/02 Teil 2 (Schemm)/00 Dynamische Programmierung/Fragen aus Fragestunde.md).
 <details><summary>Was sind die typischen Restriktionen eines KW bzw. Speichers?</summary>
 
 Kraftwerk
