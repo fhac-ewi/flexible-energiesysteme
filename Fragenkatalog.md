@@ -21,6 +21,7 @@ Speicher zusätzlich
 - Geschwindigkeit Einspeicherung/Ausspeicherung (minimale/maximale Pumpleistung)
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
 </details>
+
 ### Intrinsic Rolling
 ### Stochastische Bewertung
 ### Last-Square-Monte-Carlo-Optimierung

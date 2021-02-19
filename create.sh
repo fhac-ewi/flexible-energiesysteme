@@ -14,6 +14,6 @@ do
     find "$D" -name "*.md" -maxdepth 1 -type f | while read -r F
     do
         echo "File: $F"
-        cat "$F" | sed -e '0,/#/s/^##*.*/<details><summary>&<\/summary>\n/' -e  's/^##*.*/<\/details>\n<details><summary>&<\/summary>\n/' -e 's/<summary>#[ ]*/<summary>/g' -e '$a</details>' >> Fragenkatalog.md
+        cat "$F" | sed -e '0,/#/s/^##*.*/<details><summary>&<\/summary>\n/' -e  's/^##*.*/<\/details>\n<details><summary>&<\/summary>\n/' -e 's/<summary>#[ ]*/<summary>/g' -e '$a</details>\n' >> Fragenkatalog.md
     done
 done
