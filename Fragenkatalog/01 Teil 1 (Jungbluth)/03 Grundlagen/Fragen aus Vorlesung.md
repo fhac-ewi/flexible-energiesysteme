@@ -1,7 +1,7 @@
 # Wie funktioniert der Energiemarkt? (am Beispiel Strommarkt)
 Die Versorgung mit Energie – d.h. der Einsatz von Kraftwerken und Speichern usw. – erfolgt im liberalisierten Energiemarkt nicht durch die zentrale Planung eines Versorgers, sondern durch Käufe und Verkäufe an Märkten (V3, Folie 8/9)
 
-#Wer kauft und verkauft? 
+# Wer kauft und verkauft? 
 Akteure am Großhandelsmarkt Strom, Gas, (CO2-Zertifikate): 
 Erzeuger: Erzeuger verkaufen ihre Erzeugung (Strom, Gas) und kaufen Brennstoffe und Emissionszertifikate in verschiedenen Produkten und zeitlichen Strukturen, oder sichern beides preislich ab. Speicherbetreiber agieren ähnlich.
 Händler: Handelsunternehmen, Banken und finanzielle Dienstleister schöpfen Wert aus der Gestaltung von und dem Handel mit Produkten, ohne selbst zu produzieren. Sie stellen dem Markt Liquidität zur Verfügung und handeln oft grenzüberschreitend. 
