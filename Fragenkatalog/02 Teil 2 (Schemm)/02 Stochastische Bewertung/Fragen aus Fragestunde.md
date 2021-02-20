@@ -4,22 +4,23 @@ Antwort steht noch aus...
 
 # Erklären Sie die beiden Methoden, die zur Berechnung des Realoptionswert verwendet werden. (Monte-Carlo-Simulation und Wahrscheinlichkeitsverteilung der Preise)
 **Monte-Carlo-Simulation**
-- Antwort steht noch aus 
+Numerische Lösung eines Problems durch Ausführen sehr vieler gleichartiger Zufallsexperimente.
 
 **Wahrscheinlichkeitsverteilung der Preise**
 - Antwort steht noch aus
 
 # Intrinsischer und extrinsischer Wert berechnen und definieren
 **Intrinsischer Wert**
-- Definition:
-- Berechnung: 
+- Definition: Summe des Deckungsbeitrags über alle zukünftigen Stunden zum aktuellen Zeitpunkt. Risikofrei absicherbar durch Handelsgeschäfte.
+- Berechnung: max(Durchschnitt Wert T - Kosten; 0) 
 
 **Extrinsischer Wert**
-- Definition:
-- Berechnung: 
+- Definition: Zusätzliches Erlöspotential, wenn auf veränderte Preise flexibel reagiert werden kann. 
+- Berechnung: Differenz aus intrinsischem Wert und Realoptionswert
 
 # Wie wird das Delta berechnet?
 - Mithilfe eines Steigungsdreiecks (Numerische Approximation)
+
 ![Delta](./Berechnung Delta.PNG)
 
 # Excel Einfaches KW-Beispiel: Anhand der vollständigen Excel das logische Vorgehen erklären und die Veränderungen bei Wertänderungen begründen.
