@@ -95,6 +95,74 @@ Ja (siehe Vorlesung 1 ab Folie 26)
 - Netz: Die Ausschreibung von Regelenergie ist der Werttreiber für systemdienliches Verhalten.
 </details>
 
+Fragen aus der Datei [GEK Fragen](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/00 Ursachen Flexibilitätsbedarf/GEK Fragen.md).
+</details>
+<details><summary>Worauf resultiert der Flexibilitätsbedarf? </summary>
+
+- Nachfrage nach Strom und Wärme ist schwankend (saisonal, tageszeitlich + stochastisch)
+- Stromnetz hat kaum direkte Speicherfähigkeit, sodass Erzeugung + Verbrauch immer ausgeglichen sein müssen
+- Prognoseunsicherheit im Angebot EE
+- Großkraftwerke sind oft wenig flexibel
+
+</details>
+<details><summary>Wofür wird Flexibilität genutzt?</summary>
+
+- Marktdienlich: Flexibilität für Herstellung des Gleichgewichtes von Angebot + Nachfrage  
+- Systemdienlich: Flexibilität für konstante Haltung der Netzfrequenz bzw. Netzdrucks  Garantie der Versorgungssicherheit
+- Netzdienlich: Flexibilität zur Minimierung von Netzengpässen
+
+</details>
+<details><summary>Was sind die Werttreiber von Flexibilität?</summary>
+
+- Marktdienlich: zeitlich variable Marktpreise
+- Systemdienlich: Ausschreibung von Regelenergie
+- Netzdienlich: Ausschreibung von Regelenergie
+
+</details>
+<details><summary>Wodurch kann Flexibilität bereitgestellt werden?</summary>
+
+- Redispatch: Reduzierung der Stromeinspeisung und gleichzeitige Erhöhung anderswo unter Kostenerstattung
+- Netzreservekraftwerke
+- Einspeisemanagement: Abregelung von EE-Anlagen unter Entschädigung
+- Flexumer: Endkunden im Energiesystem, die Flexibilität fürs System bereitstellen können (z.B. E-Auto-Ladestation, PV-Batterie)
+
+</details>
+<details><summary>Wie wird Flexibilität im Gasnetz bereitgestellt?</summary>
+
+- Flexibilität im Gasnetz wird gedeckt durch tolerable Druckänderungen im Gasnetz, große Erdgasspeicher und eine gewisse Flexibilität bei Importen
+
+</details>
+<details><summary>Welches sind die Akteure im Energiemarkt, welche Ziele haben sie und wie ist deren Kostenfunktion aufgebaut?</summary>
+
+- Versorger
+  - Ziel: Minimierung der Versorgungskosten
+  - {Endkunden und Unternehmen, die Kunden direkt beliefern (z.B. Fernwärmeanbieter)
+  - Kosten setzen sich zusammen aus Arbeitspreis und Leistungspreis, durch Flexibilität kann v.a. die Maximalleistung reduziert werden Peak Shaving
+- Vermarkter
+  - Ziel: Gewinnmaximierung
+  - Betreiber von Kraftwerken und großen Energiespeichern
+  - Gewinn ergibt sich aus dem Verkaufs-Arbeitspreis, Kosten sind Brennstoff, Emissionszertifikate, Startkosten sowie Betriebs- und Fixkosten
+  - Deckungsbeitrag: Gewinn - variable Kosten
+  - clean spread: Deckungsbeitrag/elektrische Arbeit W_el
+    `cs = DB/W_el = Verkaufspreis – 1/η_el Brennstoffpreis – ξ/η_el CO2Preis`
+  - Vermarktungsentscheidung berücksichtigt nur die variablen Kosten, nicht die Fixkosten (das sind dann versunkene Kosten)
+  - Grenzkosten sind die Kosten, die nächste kWh zu produzieren. Die Grenzkostenfunktion ist daher die Ableitung der variablen Kosten nach der Arbeit:
+    `GK = dV ariableKosten / dW_el`. Der Verlauf der Grenzkosten ist reziprok zum Verlauf des Wirkungsgrades
+  - Für die Frage der Wirtschaftlichkeit eines Kraftwerks sind aber auch die Fixkosten (Anlagekomponenten, Bau, Rückbau, Personal) relevant
+
+</details>
+<details><summary>Welche Parameter beeinflussen die Entscheidung zum Speichereinsatz?</summary>
+
+- Technische: Kapazität, Wirkungsgrad, Selbstentladung, Ein- + Ausspeiseleistung, Umschaltzeit zwischen Ein- + Ausspeicherung
+- Ökonomisch: Investitionskosten, Ein- + Ausspeicherkosten, sonstige Betriebskosten
+
+</details>
+<details><summary>Welche Parameter beeinflussen den Einsatz eines Kraftwerks?</summary>
+
+- Technisch: Nennleistung, Mindestleistung, Wirkungsgrad, Lastgradient, Mindeststillstands-/-betriebszeit, Anfahrzeit
+- Ökonomische: Strom-/Wärmeerlöse, Brennstoffkosten, Emissionskosten, sonstige variable Kosten (Hilfsstoffe, Entsorgung, Betriebskosten), Startkosten, Investitions- + Rückbaukosten
+</details>
+
 ### Werttreiber Flexibilitätsbedarf
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/01 Werttreiber Flexibilitätsbedarf/Fragen aus Vorlesung.md).
 </details>
@@ -287,6 +355,70 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungblu
 </details>
 <details><summary>Kann man eine bereits verkaufte Liefermenge nochmal verkaufen?</summary>
 
+</details>
+
+Fragen aus der Datei [GEK Fragen](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/04 Grundlagen verschiedener Vermarktungsstrategien/GEK Fragen.md).
+</details>
+<details><summary>Wie wird das Gleichgewicht zwischen Kauf + Verkauf in Märkten geregelt?</summary>
+
+- Ausgleich zwischen Angebot und Nachfrage passiert im liberalisierten Energiemarkt durch Kauf und Verkauf an Märkten
+
+</details>
+<details><summary>Was sind die Besonderheiten eines idealen Marktes?</summary>
+
+- Ein einzelner Marktteilnehmer hat nur geringen Einfluss auf den Preis
+- Alle Produkte sind homogen, d.h. vollständig gegeneinander substituierbar
+- es gibt keine Barrieren für den Eintritt und Austritt
+- Markttransparenz: Alle Teilnehmer sind über Produkte, Mengen und Preise informiert
+
+</details>
+<details><summary>Was sind Produkte eines Strommarktes?</summary>
+
+- gehandelte Produkte müssen definierte, immer gleiche Eigenschaften haben
+- Im Strommarkt: Base und Peak (8-20 Uhr) im Spotmarkt (Day-Ahead und tagesaktuell) und
+- Terminmarkt (Tag, Woche, Monat, Quartal, Jahr)
+
+</details>
+<details><summary>Beim Terminhandel wird nur finanziell erfüllt. Was bedeutet finanzielle Erfüllung? Und wodurch können Preise dabei abgesichert werden?</summary>
+
+- Statt der Lieferung der Strommenge wird zum Lieferzeitpunkt der Differenzpreis des zugrundeliegenden Geschäfts zum aktuellen Spotmarktpreis ausgezahlt
+- Hedging: Absichern physischer Positionen, Risikominimierung
+- Arbitrage: Ausnutzen von Kursdifferenzen in verschiedenen Märkten zum gleichen Zeitpunkt
+- Spekulation: Kauf/Verkauf unter der Annahme, dass der Preis fällt/steigt
+
+</details>
+<details><summary>Wie findet bei den unterschiedlichen Märkten die Preisfindung statt?</summary>
+
+- Terminmarkt: kontinuierlicher Handel, pay as bid
+- Sportmarkt: 
+  - Verdeckte Auktion, alle erhalten den Markträumungspreis (MCP = Market Clearing Price)
+  - 24 Stunden eines Tages handelbar ab 12 Uhr des vorherigen Tages, die Viertelstunden ab 15 Uhr des vorherigen Tages
+  - Preisrampen im Viertelstundenbereich v.a. durch PV-Erzeugung, die morgens steil ansteigt und abends wieder fällt sowie Lastrampen (v.a. nachts)
+- Regelenergie: verdeckte Auktion, niedrigstes Gebot erhält den Zuschlag, pay as bid
+
+</details>
+<details><summary>Beschreiben sie die Bewirtschaftung im Terminmarkt.</summary>
+
+- Spotmarktpreise sind sehr volatil. Bewirtschaftung im Terminmarkt dient dazu, Unsicherheit bzgl. des Gewinns gegen Sicherheit einzutauschen
+- Grundlage der Terminmarktpreise: Simulation von zukünftigen Preisen auf Basis historischer Muster  Price Forward Curve
+- Der Clean Spread kann nur gesichert werden, wenn Input und Output (d.h. Strom und Brennstoffe) gehandelt werden
+
+</details>
+<details><summary>Definieren sie die Begriffe intrinsischer, extrinsischer und Realoptionswert.</summary>
+
+- Intrinsischer Wert: Summe des Deckungsbeitrags über alle zukünftigen Stunden zum aktuellen Zeitpunkt (risikofrei absicherbar durch Handelsgeschäfte)
+- Realoptionswert: gewichteter Mittelwert der erwarteten Deckungsbeiträgen in der Zukunft
+- Extrinsischer Wert: zusätzliches Erlöspotential, wenn auf veränderte Preise flexibel reagiert werden kann; Differenz aus intrinsischem Wert + Realoptionswert
+
+</details>
+<details><summary>Welche Vermarktungsstrategien gibt es und nennen sie Beispiele davon.</summary>
+
+- Regelbasiert: die Regel enthält implizite Marktmeinung
+  - Z.B. physische oder finanzielle Limitierung, monatliche anteilige Vermarktung
+- Marktorientiert: Handel unterschiedet unter Beachtung von Ertrags- + Risikovorgaben frei über die Vermarktungsposition
+  - Z.B. finanzielle Limitierung
+- Delta-Hedging
+- Intrinsic Rolling
 </details>
 
 ### Grenzkostenfunktion
