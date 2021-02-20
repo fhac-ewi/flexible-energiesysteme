@@ -40,4 +40,4 @@ Die zukünftigen Spotmarktpreise und damit die (viertel-)stündlichen Clean Spre
 # Wäre das sinnvoll (auch für Windkraftwerke z.B.)?
 Ja, total, da kurzfristig erst Wetterbedinungen besser absehbar sind. 
 
-# Wie würde man das machen?
+
