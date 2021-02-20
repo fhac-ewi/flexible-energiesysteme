@@ -1,11 +1,11 @@
 # Was sind die typischen Restriktionen eines KW bzw. Speichers?
-Kraftwerk
+**Kraftwerk**
 - Zustände (Aus, An)
 - Benötigte Zeit für Zustandswechsel
 - Minimal- bzw. Maximalleistung
 - Bestimmte Anzahl von Starts
 
-Speicher zusätzlich
+**Speicher** zusätzlich
 - Geschwindigkeit Einspeicherung/Ausspeicherung (minimale/maximale Pumpleistung)
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
 
@@ -27,3 +27,6 @@ In dem letzten Zustand kann der Wert einer Aktion eindeutig bestimmt werden.
 Der Wert wird nicht von den nächsten Werten (gibt keine) beeinflusst.
 
 Durch das iterativ rückwärtige Rechnen kann dann zu jedem Zeitpunkt die optimale Aktion (zusammengesetzt aus der optimalen Aktion im aktuellen Zeitschritt und den optimalen Aktionen im folgenden Zeitschritt (bereits bekannt)) bestimmt werden.
+
+# Was sind die grundsätzlichen Unterschied zwischen deterministischer und stochastischer "Welt"?
+- Bei deterministischen Verfahren werden keine Unsicherheit bezüglich zukünftiger Preise beachtet. Bei stochastisch schon.
