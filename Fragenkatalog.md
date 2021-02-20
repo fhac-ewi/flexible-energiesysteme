@@ -177,12 +177,15 @@ Antwort steht noch aus...
 </details>
 <details><summary>Bei der Zustandsübergangsmatrix: Wie kann die Mindeststillstands eines KW (als Restriktion), die bei der lineareren Programmierung viel Leistung benötigt, vereinfacht abbilden? (schwierig)</summary>
 
-Antwort steht noch aus...
+Anzahl der Starts beschränken. Dies ist deutlich einfacherer zu berechnen und erzielt eine ähnliche Wirkung. (Aussage Schemm!)
 
 </details>
 <details><summary>Dynamische Optimierung: Warum wird die rekursiv von hinten nach vorne gelöst?</summary>
 
-Antwort steht noch aus...
+In dem letzten Zustand kann der Wert einer Aktion eindeutig bestimmt werden.
+Der Wert wird nicht von den nächsten Werten (gibt keine) beeinflusst.
+
+Durch das iterativ rückwärtige Rechnen kann dann zu jedem Zeitpunkt die optimale Aktion (zusammengesetzt aus der optimalen Aktion im aktuellen Zeitschritt und den optimalen Aktionen im folgenden Zeitschritt (bereits bekannt)) bestimmt werden.
 </details>
 
 ### Intrinsic Rolling
