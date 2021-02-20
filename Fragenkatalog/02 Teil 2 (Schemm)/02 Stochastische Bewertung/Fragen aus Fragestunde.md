@@ -20,7 +20,7 @@ Antwort steht noch aus...
 
 # Wie wird das Delta berechnet?
 - Mithilfe eines Steigungsdreiecks (Numerische Approximation)
-TODO Abbildung
+![Delta](./Berechnung Delta.PNG)
 
 # Excel Einfaches KW-Beispiel: Anhand der vollständigen Excel das logische Vorgehen erklären und die Veränderungen bei Wertänderungen begründen.
 Excel Tabelle angucken TODO Link. 
