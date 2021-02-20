@@ -191,6 +191,24 @@ Weiter gleicht die Regelung die externen Störgrößen wie zum Beispiel Brennsto
 
 </details>
 
+Fragen aus der Datei [GEK Fragen](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/02 Funktionsweise und Komponenten/GEK Fragen.md).
+</details>
+<details><summary>Was ist ein Schwarzstart?</summary>
+
+Start des Kraftwerks ohne Energie aus Stromnetz. (z.B. Blackout)
+
+</details>
+<details><summary>Welche Kraftwerke sind schwarzstartfähig?</summary>
+
+- Wasserkraftwerke
+- Gaskraftwerke (mit Batteriespeicher oder Diesel-Generator)
+- Druckluftspeicherkraftwerke
+
+Nicht schwarzstartfähig sind:
+- thermische Kraftwerke (Atom, Kohle)
+
+</details>
+
 ### Grundlagen
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/03 Grundlagen/Fragen aus Vorlesung.md).
 </details>
