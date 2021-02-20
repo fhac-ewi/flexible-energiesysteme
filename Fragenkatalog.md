@@ -379,7 +379,7 @@ Antwort steht noch aus...
 <details><summary>Erklären Sie die beiden Methoden, die zur Berechnung des Realoptionswert verwendet werden. (Monte-Carlo-Simulation und Wahrscheinlichkeitsverteilung der Preise)</summary>
 
 **Monte-Carlo-Simulation**
-- Antwort steht noch aus 
+Numerische Lösung eines Problems durch Ausführen sehr vieler gleichartiger Zufallsexperimente.
 
 **Wahrscheinlichkeitsverteilung der Preise**
 - Antwort steht noch aus
@@ -388,17 +388,18 @@ Antwort steht noch aus...
 <details><summary>Intrinsischer und extrinsischer Wert berechnen und definieren</summary>
 
 **Intrinsischer Wert**
-- Definition:
-- Berechnung: 
+- Definition: Summe des Deckungsbeitrags über alle zukünftigen Stunden zum aktuellen Zeitpunkt. Risikofrei absicherbar durch Handelsgeschäfte.
+- Berechnung: max(Durchschnitt Wert T - Kosten; 0) 
 
 **Extrinsischer Wert**
-- Definition:
-- Berechnung: 
+- Definition: Zusätzliches Erlöspotential, wenn auf veränderte Preise flexibel reagiert werden kann. 
+- Berechnung: Differenz aus intrinsischem Wert und Realoptionswert
 
 </details>
 <details><summary>Wie wird das Delta berechnet?</summary>
 
 - Mithilfe eines Steigungsdreiecks (Numerische Approximation)
+
 ![Delta](./Fragenkatalog/02 Teil 2 %28Schemm%29/02 Stochastische Bewertung/Berechnung Delta.PNG)
 
 </details>
@@ -448,21 +449,23 @@ Fragen aus der Datei [Fragen aus Fragestunde](./Fragenkatalog/02 Teil 2 %28Schem
 </details>
 <details><summary>Welche Wahlmöglichkeiten gibt es zu einem Zeitpunkt für den Inhaber?</summary>
 
-Antwort steht noch aus...
+Der Inhaber kann
+- die Option zum jetzigen Zeitpunkt **ausüben** (dann ist sie weg)
+- die Option aufsparen und **warten**
 
 </details>
 <details><summary>Wie wählt der Inhaber die geeignete Aktion aus?</summary>
 
-Antwort steht noch aus...
+Der Inhaber **übt** die Option **aus**, wenn der momentane Cashflow höher als der zukünftig erwartete Cashflow ist.
 
 </details>
 <details><summary>Wie wird alles operationalisiert?</summary>
 
-Antwort steht noch aus...
+Erwartungswertbildung mithilfe einer Regression auf Basis der aktuellen Informationen vornehmen.
 
 </details>
 <details><summary>Was sind die aktuellen Informationen? (Was?)</summary>
 
-Antwort steht noch aus...
+Die Informationen, die zum Zeitpunkt der Erwartungswertbildung vorliegen. z.B. aktuelle Marktpreise
 </details>
 
