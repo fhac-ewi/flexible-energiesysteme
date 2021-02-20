@@ -9,8 +9,12 @@ Speicher zusätzlich
 - Geschwindigkeit Einspeicherung/Ausspeicherung (minimale/maximale Pumpleistung)
 - Rüstzeiten (Umbau von Einspeicherung (Pumpbetrieb) zu Ausspeicherung (Turbinenbetrieb))
 
-# Was kennzeichnet eine Zustandsübergangsmatrix aus und wie ist die aufgebaut?
-Antwort steht noch aus...
+# Was kennzeichnet eine Zustandsübergangsmatrix und wie ist die aufgebaut?
+Aufbau:
+- Zustände (des Kraftwerks) in Zeilen/Spalten dargestellt
+- Erlaubte Übergänge (zwischen den Zuständen) i.d.R. mit CashFlow verbunden
+
+(Teil 1 der Frage, hat der Schemm nicht beantwortet?)
 
 # Abbildung eines KW bzw. Speichers in einer Zustandsübergangsmatrix
 Antwort steht noch aus...
