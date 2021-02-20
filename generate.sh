@@ -20,7 +20,7 @@ do
         cat "$F" | sed -e '0,/#/s/^##*.*/<details><summary>&<\/summary>\n/' \
                 -e 's/^##*.*/<\/details>\n<details><summary>&<\/summary>\n/' \
                 -e 's/<summary>#[ ]*/<summary>/g' \
-                -e "s|(\./|(\./$escapedFolder|g" \
+                -e "s|(\./|(\./$escapedFolder/|g" \
                 -e '$a</details>\n' >> Fragenkatalog.md
     done
 done
