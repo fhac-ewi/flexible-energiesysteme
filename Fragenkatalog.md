@@ -2,6 +2,7 @@
 ## Teil 1 (Jungbluth)
 ### Ursachen Flexibilitätsbedarf
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/00 Ursachen Flexibilitätsbedarf/Fragen aus Vorlesung.md).
+</details>
 <details><summary>Warum und wozu braucht man Flexibilität im Energiesystem? (Strom, Erdgas, Fernwärme)</summary>
 
 Der physische Flexibilitätsbedarf resultiert aus der zeitlich schwankenden Nachfrage nach Strom und Wärme und daraus Erdgas
@@ -96,6 +97,7 @@ Ja (siehe Vorlesung 1 ab Folie 26)
 
 ### Werttreiber Flexibilitätsbedarf
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/01 Werttreiber Flexibilitätsbedarf/Fragen aus Vorlesung.md).
+</details>
 <details><summary>Was sind Werttreiber?</summary>
 
 **Leitaussagen: Werttreiber**
@@ -124,6 +126,7 @@ Zum Management von Speichern (generell) und Kraftwerken sind viele technische un
 
 ### Funktionsweise und Komponenten
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/02 Funktionsweise und Komponenten/Fragen aus Vorlesung.md).
+</details>
 <details><summary>Wie funktioniert ein Dampfkraftwerk?</summary>
 
 
@@ -189,6 +192,7 @@ Weiter gleicht die Regelung die externen Störgrößen wie zum Beispiel Brennsto
 </details>
 
 Fragen aus der Datei [GEK Fragen](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/02 Funktionsweise und Komponenten/GEK Fragen.md).
+</details>
 <details><summary>Was ist ein Schwarzstart?</summary>
 
 Start des Kraftwerks ohne Energie aus Stromnetz. (z.B. Blackout)
@@ -207,6 +211,7 @@ Nicht schwarzstartfähig sind:
 
 ### Grundlagen
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/03 Grundlagen/Fragen aus Vorlesung.md).
+</details>
 <details><summary>Wie funktioniert der Energiemarkt? (am Beispiel Strommarkt)</summary>
 
 Die Versorgung mit Energie – d.h. der Einsatz von Kraftwerken und Speichern usw. – erfolgt im liberalisierten Energiemarkt nicht durch die zentrale Planung eines Versorgers, sondern durch Käufe und Verkäufe an Märkten (V3, Folie 8/9)
@@ -271,6 +276,7 @@ Ja, total, da kurzfristig erst Wetterbedinungen besser absehbar sind.
 
 ### Grundlagen verschiedener Vermarktungsstrategien
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/04 Grundlagen verschiedener Vermarktungsstrategien/Fragen aus Vorlesung.md).
+</details>
 <details><summary>Was passiert, wenn man vermarktet hat, und der Clean Spread steigt?</summary>
 
 
@@ -285,6 +291,7 @@ Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungblu
 
 ### Grenzkostenfunktion
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/05 Grenzkostenfunktion/Fragen aus Vorlesung.md).
+</details>
 <details><summary>Platzhalter</summary>
 
 Noch keine Fragen hinterlegt. Bitte Fragen einfügen.
@@ -292,6 +299,7 @@ Noch keine Fragen hinterlegt. Bitte Fragen einfügen.
 
 ### Flexibilitätsbereitstellung
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01 Teil 1 %28Jungbluth%29/06 Flexibilitätsbereitstellung/Fragen aus Vorlesung.md).
+</details>
 <details><summary>Platzhalter</summary>
 
 Noch keine Fragen hinterlegt. Bitte Fragen einfügen.
@@ -300,6 +308,7 @@ Noch keine Fragen hinterlegt. Bitte Fragen einfügen.
 ## Teil 2 (Schemm)
 ### Dynamische Programmierung
 Fragen aus der Datei [Fragen aus Fragestunde](./Fragenkatalog/02 Teil 2 %28Schemm%29/00 Dynamische Programmierung/Fragen aus Fragestunde.md).
+</details>
 <details><summary>Was sind die typischen Restriktionen eines KW bzw. Speichers?</summary>
 
 Kraftwerk
@@ -342,6 +351,7 @@ Durch das iterativ rückwärtige Rechnen kann dann zu jedem Zeitpunkt die optima
 
 ### Intrinsic Rolling
 Fragen aus der Datei [Fragen aus Fragestunde](./Fragenkatalog/02 Teil 2 %28Schemm%29/01 Intrinsic Rolling/Fragen aus Fragestunde.md).
+</details>
 <details><summary>Wie läuft das Verfahren ab?</summary>
 
 Antwort steht noch aus...
@@ -359,6 +369,7 @@ Antwort steht noch aus...
 
 ### Stochastische Bewertung
 Fragen aus der Datei [Fragen aus Fragestunde](./Fragenkatalog/02 Teil 2 %28Schemm%29/02 Stochastische Bewertung/Fragen aus Fragestunde.md).
+</details>
 <details><summary>Sicherer Umgang mit den Begrifflichkeiten</summary>
 
 TODO Keine Richtige Frage.. Hier müssen wir die Begrifflichkeiten auflisten
@@ -388,7 +399,7 @@ Antwort steht noch aus...
 <details><summary>Wie wird das Delta berechnet?</summary>
 
 - Mithilfe eines Steigungsdreiecks (Numerische Approximation)
-![Delta](./Fragenkatalog/02 Teil 2 %28Schemm%29/02 Stochastische BewertungBerechnung Delta.PNG)
+![Delta](./Fragenkatalog/02 Teil 2 %28Schemm%29/02 Stochastische Bewertung/Berechnung Delta.PNG)
 
 </details>
 <details><summary>Excel Einfaches KW-Beispiel: Anhand der vollständigen Excel das logische Vorgehen erklären und die Veränderungen bei Wertänderungen begründen.</summary>
@@ -434,6 +445,7 @@ Zusätzliches Erlöspotential, wenn auf veränderte Preise flexibel reagiert wer
 
 ### Last-Square-Monte-Carlo-Optimierung
 Fragen aus der Datei [Fragen aus Fragestunde](./Fragenkatalog/02 Teil 2 %28Schemm%29/03 Last-Square-Monte-Carlo-Optimierung/Fragen aus Fragestunde.md).
+</details>
 <details><summary>Welche Wahlmöglichkeiten gibt es zu einem Zeitpunkt für den Inhaber?</summary>
 
 Antwort steht noch aus...
