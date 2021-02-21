@@ -207,9 +207,10 @@ In einem Dampfkraftwerk laufen folgende drei Schritte ab:
 </details>
 <details><summary>Welche Hauptkomponenten hat ein Dampfkraftwerk?</summary>
 
-- Kessel
+- Speisewasserpumpe
+- Verdampfer (Kessel)
 - Generator
-- Kühlkreislauf
+- Kondensator
 
 </details>
 <details><summary>Wo ist das „Gaspedal“ im Dampfkraftwerk? Wie könnte die Leistung eines Dampfkraftwerks geregelt werden? (Überlegen Sie dazu, welche Parameter die Turbinenleistung beeinflussen. Denken Sie ggf. an das h-s-Diagramm.)</summary>
