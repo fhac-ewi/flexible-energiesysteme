@@ -24,7 +24,7 @@ barten Fluss geleitet → Isobare Wärmeabfuhr
 # Wie kann der Prozesswirkungsgrad im Dampfkraftwerk erhöht werden:
 
 - Erhöhung von Dampfdruck und -temperatur 
-- oder Erhöhung von Kondensatordruck und -temperatur.
+- oder Reduzierung von Kondensatordruck und -temperatur.
 
 # Welche Faktoren gehen in die Berechnung des Netto Wirkungsgrad eines Dampfkraftwerks ein (Nenne mindestens 3):
 - Prozesswirkungsgrad (51%) 
