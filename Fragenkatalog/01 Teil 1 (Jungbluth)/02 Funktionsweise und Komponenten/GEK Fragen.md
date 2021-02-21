@@ -41,7 +41,7 @@ barten Fluss geleitet → Isobare Wärmeabfuhr
 
 # Wie flexibel sind Dampfturbinenkraftwerke? Konkret: können sie schnell geregelt werden oder sind sie eher träge? Gib Gründe dafür an.
 Sie sind träge weil:
-- der **Kessel** muss beim Start erst **aufgeheizt** werden um die Zündtemperatur zu erreichen
+- die Brennkammer muss beim Start erst **aufgeheizt** werden um die Zündtemperatur zu erreichen
 - Der **Dampfkreislauf muss die nötige Temperatur erreichen**, nasser Dampf würde die Turbine
   beschädigen und wird daher zunächst direkt in den Kondensator geleitet
 - **Minimale Teillast ist begrenzt durch die Größe des Feuerraums** (der eine Mindestfeuerungs-
